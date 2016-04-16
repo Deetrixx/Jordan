@@ -19,13 +19,14 @@
 
 .main {
     background-image: url(../assets/bg.jpg);
-    height: 800px;
+    height: 600px;
     /*    background-repeat: no-repeat;*/
 }
 
 .Fav {
     color: #C3C3C3;
     font-family: 'Merriweather Sans', sans-serif;
+    font-size: 25px;
 }
 
 .empty {
@@ -33,15 +34,15 @@
 }
 
 .cat {
-/*    float: right;*/
+    /*    float: right;*/
     padding-bottom: 70px;
     padding-top: 70px;
     padding-left: 20px;
-    padding-right:20px;
+    padding-right: 20px;
 }
 
 .loc {
-/*    float: right;*/
+    /*    float: right;*/
     padding-bottom: 70px;
     padding-top: 70px;
     padding-right: 20px;
