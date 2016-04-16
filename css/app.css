@@ -57,8 +57,6 @@
     text-align: center;
 }
 
-
-
 .follow {
     color: #EA9A01;
     border-radius: 10%;
@@ -66,4 +64,12 @@
 
 .followme {
     border-radius: 20%;
+}
+
+.links {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 25px;
+    color: #FFFFFF;
+    background-color: #44474F;
+    border-right:1px #FFFFFF solid;
 }
