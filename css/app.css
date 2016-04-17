@@ -3,6 +3,7 @@
     max-width: 680px;
     margin: 0 auto;
     height: auto;
+    background: #565A69;
 }
 
 .title {
@@ -71,5 +72,5 @@
     font-size: 25px;
     color: #FFFFFF;
     background-color: #44474F;
-    border-right:1px #FFFFFF solid;
+    border-right: 1px #FFFFFF solid;
 }
